@@ -1,0 +1,8 @@
+[user]
+	email = lo0oo0ongtail@gmail.com
+	name = lo-ngtail
+[core]
+	autocrlf = false
+
+[include]
+    path = ~/.gitconfig.local
